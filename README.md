@@ -13,8 +13,8 @@ A complete Subscription & Invoice Billing System built with Python Django + MySQ
 Python, Django, Django Rest Framework, MySQL, Bootstrap
 
 ### **📸 Screenshot**
-![Dashboard](Screenshot1.png)
+![Dashboard](invoice 1.png)
 
 ### **💼 Hire Me**
 Fiverr Developer: imran4867 
-GitHub Portfolio: https://dev-lab.github.io
+GitHub Portfolio: https://Imrandev-lab.github.io
